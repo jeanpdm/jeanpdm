@@ -42,4 +42,4 @@ Aqui estão as tecnologias com as quais eu trabalho:
 
 (Isso mostra suas estatísticas automaticamente. Apenas troque `jeanpdm` pelo seu usuário do GitHub)
 
-[![Minhas Stats do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/SEU-USERNAME)
+[![Minhas Stats do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/jeanpdm)
