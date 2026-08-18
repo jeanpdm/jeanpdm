@@ -8,7 +8,6 @@ Sou um desenvolvedor focado em **Back-end**, estudando para construir aplicaçõ
 
 ---
 
-## 🚀 Minhas Habilidades
 
 ## 🚀 Minhas Habilidades
 
@@ -17,8 +16,6 @@ Aqui estão as tecnologias, conceitos e ferramentas com as quais trabalho e me a
 **Infraestrutura, DevOps & Processos:**
 <div style="display: inline-block;">
   <img align="center" alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img align="center" alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img align="center" alt="TeamCity" src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white" />
   <img align="center" alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-Pipeline-4CAF50?style=for-the-badge" />
 </div><br>
 
@@ -26,6 +23,7 @@ Aqui estão as tecnologias, conceitos e ferramentas com as quais trabalho e me a
 <div style="display: inline-block;">
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br>
 
