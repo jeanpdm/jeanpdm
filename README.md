@@ -1,7 +1,7 @@
 
 # Olá, eu sou o Jean Pantaleão! 👋
 
-Sou um desenvolvedor focado em **Back-end**, estudando para construir aplicações robustas e escaláveis. Minha stack principal gira em torno do **.NET** e automação (Python)**,.
+Sou um desenvolvedor focado em **Back-end**, estudando para construir aplicações robustas e escaláveis. Minha stack principal gira em torno do **.NET** e automação **(Python)**,.
 
 * Estou sempre aprendendo e me aprofundando em novas tecnologias.
 * Buscando oportunidades de estágio para aplicar meu conhecimento e crescer como desenvolvedor.
